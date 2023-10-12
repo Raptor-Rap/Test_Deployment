@@ -1,0 +1,77 @@
+{
+  "destinations": [
+    {
+      "id": 1,
+      "title": "Candi Borobudur",
+      "image": "https://images.pexels.com/photos/10913619/pexels-photo-10913619.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Candi Borobudur adalah sebuah situs arkeologi terkenal di Indonesia, terletak di Yogyakarta, Jawa Tengah. Ini adalah candi Buddha terbesar di dunia dan salah satu warisan budaya terpenting di Indonesia. Candi Borobudur dibangun pada abad ke-9 Masehi oleh dinasti Syailendra dan menggambarkan arsitektur Buddha Mahayana. Candi ini terdiri dari sembilan tingkat teras dan stupa-stupa yang indah yang dihiasi dengan relief-relief yang menggambarkan ajaran-ajaran Buddha dan cerita-cerita kehidupan Buddha Siddhartha Gautama. Candi Borobudur merupakan tujuan wisata yang populer dan merupakan salah satu ikon budaya Indonesia.",
+      "price": "Rp. 48.000"
+    },
+    {
+      "id": 2,
+      "title": "Candi Prambanan",
+      "image": "https://images.pexels.com/photos/4090085/pexels-photo-4090085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Candi Prambanan adalah kompleks candi Hindu yang terletak di Yogyakarta, Indonesia. Ini adalah salah satu situs arkeologi terbesar dan paling indah di Indonesia. Candi Prambanan terdiri dari sejumlah candi yang mengesankan, yang paling utama adalah Candi Shiva yang tinggi dan elok, serta dua candi lainnya yang didedikasikan untuk Dewi Parvati dan Dewi Vishnu. Candi ini dibangun sekitar abad ke-9 Masehi oleh dinasti Mataram dan merupakan contoh utama arsitektur Hindu di Indonesia, dengan tumpukan batu yang dihiasi dengan patung-patung dewa dan relief-relief epik yang menceritakan kisah-kisah dari epik Hindu seperti Ramayana.",
+      "price": "Rp. 50.000"
+    },
+    {
+      "id": 3,
+      "title": "Kawah Ijen",
+      "image": "https://images.pexels.com/photos/15723344/pexels-photo-15723344/free-photo-of-laut-pemandangan-pantai-air.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Kawah Ijen adalah kawah gunung berapi yang terletak di bagian timur pulau Jawa, Indonesia. Salah satu ciri khasnya yang paling terkenal adalah keberadaan danau asam sulfur di dasar kawah yang dikenal dengan nama Danau Kawah Ijen. Kawah ini juga dikenal dengan aktivitas penambangan belerangnya, di mana para pekerja mengambil belerang yang mengalir sebagai aliran cair dari kawah untuk dijual.",
+      "price": "Rp. 7.500"
+    },
+    {
+      "id": 4,
+      "title": "Gunung Bromo",
+      "image": "https://images.pexels.com/photos/10429915/pexels-photo-10429915.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Gunung Bromo adalah sebuah gunung berapi aktif yang terletak di Taman Nasional Bromo Tengger Semeru, Jawa Timur, Indonesia. Gunung ini terkenal karena pemandangan alamnya yang spektakuler, terutama ketika diapit oleh gunung-gunung lain dalam kaldera, seperti Gunung Batok dan Gunung Semeru, yang merupakan gunung tertinggi di Jawa. Bromo adalah salah satu tujuan wisata paling populer di Indonesia. Gunung Bromo memiliki kawah yang terus-menerus mengeluarkan asap putih dan kadang-kadang meletus dengan gemuruh, menciptakan pemandangan yang dramatis. Pendakian ke puncak Gunung Bromo sering dimulai dari desa Cemoro Lawang dan mengharuskan perjalanan singkat dengan kuda atau berjalan kaki melintasi lautan pasir menuju kawah gunung.",
+      "price": "Rp. 34.000"
+    },
+    {
+      "id": 5,
+      "title": "Ubud",
+      "image": "https://img.freepik.com/free-photo/bali-pagoda-indonesia_1150-11021.jpg?w=996&t=st=1697087335~exp=1697087935~hmac=e74cbb1a9e33ff6636e2b791e99fa96041d267888edd2aa0a7fcd6dea4a05a70",
+      "description": "Ubud adalah sebuah kota kecil yang terletak di pulau Bali, Indonesia. Terkenal sebagai pusat seni, budaya, dan spiritualitas, Ubud adalah tujuan wisata yang populer di Bali. Kota ini dikelilingi oleh sawah-sawah hijau yang indah, hutan lebat, dan sungai-sungai yang menawarkan pemandangan alam yang menakjubkan. Ubud dikenal karena galeri seni, tempat pertunjukan tari tradisional, dan berbagai lokasi yang mempromosikan seni dan kerajinan Bali, seperti patung kayu, lukisan, dan kerajinan tangan. Selain seni, Ubud juga terkenal sebagai pusat yoga dan meditasi dengan banyak pusat kebugaran dan retret yoga yang tersebar di sekitarnya.",
+      "price": "Rp. 60.000"
+    },
+    {
+      "id": 6,
+      "title": "Taman Nasional Komodo",
+      "image": "https://images.pexels.com/photos/8856172/pexels-photo-8856172.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Taman Nasional Komodo adalah salah satu pulau yang terkenal sebagai rumah bagi komodo, kadal raksasa yang menjadi salah satu hewan purba terbesar di dunia. Pulau ini terletak di Provinsi Nusa Tenggara Timur dan merupakan tujuan wisata populer bagi mereka yang ingin melihat komodo dan menikmati keindahan alamnya. Selain komodo, Pulau Komodo dan pulau-pulau sekitarnya menawarkan pemandangan alam yang spektakuler, termasuk bukit-bukit berbukit dengan pemandangan laut yang memukau, pantai-pantai berpasir putih, serta kehidupan bawah laut yang kaya. Aktivitas yang umum di Pulau Komodo meliputi hiking untuk melihat komodo, snorkeling atau menyelam untuk mengeksplorasi kehidupan laut yang indah, dan menikmati keindahan alam yang luar biasa.",
+      "price": "Rp. 300.000"
+    },
+    {
+      "id": 7,
+      "title": "Raja Ampat",
+      "image": "https://images.pexels.com/photos/10482395/pexels-photo-10482395.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Raja Ampat adalah sebuah kelompok kepulauan yang terletak di Provinsi Papua Barat, Indonesia. Kepulauan ini terkenal sebagai salah satu surga bagi penyelam dan pecinta alam bawah laut di seluruh dunia. Raja Ampat dikenal karena keindahan alamnya yang spektakuler, termasuk terumbu karang yang beragam dan sejumlah besar spesies laut, seperti ikan-ikan warna-warni, penyu, hiu, dan biota laut lainnya. Selain kehidupan bawah lautnya yang luar biasa, Raja Ampat juga menawarkan pemandangan alam yang menakjubkan di atas permukaan laut, termasuk pulau-pulau berbukit hijau, pantai-pantai pasir putih, dan hutan-hutan tropis yang belum tersentuh. Aktivitas yang umum di Raja Ampat meliputi penyelaman, snorkeling, hiking, dan menjelajah pulau-pulau untuk menikmati keindahan alam dan keanekaragaman hayati yang langka.",
+      "price": "Rp. 500.000"
+    },
+    {
+      "id": 8,
+      "title": "Gunung Rinjani",
+      "image": "https://images.tokopedia.net/blog-tokopedia-com/uploads/2020/06/gunung-rinjani.jpg",
+      "description": "Gunung Rinjani adalah gunung berapi yang terletak di pulau Lombok, Indonesia. Ini adalah gunung tertinggi kedua di Indonesia di luar pulau Jawa, dengan ketinggian puncak utamanya mencapai sekitar 3.726 meter di atas permukaan laut. Gunung Rinjani terkenal dengan pemandangan alamnya yang memukau, termasuk danau kawah yang disebut 'Segara Anak', dan juga keindahan alam sekitarnya. Pendakian Gunung Rinjani adalah aktivitas yang populer di kalangan pendaki dan petualang. Selama pendakian, pengunjung dapat menikmati pemandangan alam yang spektakuler, termasuk hutan hujan tropis, savana, dan pemandangan kawah yang menakjubkan. Pendakian ini seringkali berakhir di puncak Gunung Rinjani, yang menawarkan pemandangan luar biasa dan dapat menjadi pengalaman mendalam bagi pecinta alam dan pendaki.",
+      "price": "Rp. 7.500"
+    },
+    {
+      "id": 9,
+      "title": "Tanah Lot",
+      "image": "https://img.freepik.com/free-photo/tanah-lot-temple-bali-island-indonesia_335224-394.jpg?w=996&t=st=1697089551~exp=1697090151~hmac=56a8b7cdc99bf5db5f80c0989fd57bc353de93d0c9d9c38a3c38119bb7f9c5ee",
+      "description": "Tanah Lot adalah salah satu tempat yang paling mendefinisikan keindahan dan budaya Bali, dan menjadi salah satu lokasi paling terkenal untuk mengalami keindahan alam pulau ini. Tempat ini terkenal karena Pura Tanah Lot, sebuah kuil Hindu yang terletak di atas batuan besar di tengah laut. Kuil ini adalah salah satu tempat suci paling ikonik di Bali dan menjadi tujuan wisata yang populer. Pura Tanah Lot adalah tempat yang populer untuk menikmati matahari terbenam yang spektakuler, karena latar belakang pemandangan laut dan batuan besar yang menjulang. Selain itu, di sekitar situs ini terdapat berbagai fasilitas dan warung yang menjual barang-barang suvenir dan hidangan makanan lokal.",
+      "price": "Rp. 20.000"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
